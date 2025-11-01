@@ -1,4 +1,4 @@
-_****🚪 Elevator Control System using JK Flip-Flops**_
+_**🚪 Elevator Control System using JK Flip-Flops_
 🧩 Overview**
 
 This project simulates an Elevator Control System that allows users to choose the desired floor through input buttons. The system efficiently handles multiple floor selections, automatically determining the highest floor to visit and sequentially managing elevator movement.
